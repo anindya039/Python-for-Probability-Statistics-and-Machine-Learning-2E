@@ -1,0 +1,19 @@
+name: pyPSML
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - seaborn
+  - statsmodels
+  - sympy
+  - cvxpy
+  - lifelines
+prefix: /opt/anaconda3/envs/pyPSML
